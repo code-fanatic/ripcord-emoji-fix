@@ -27,8 +27,10 @@
 
 ---
 
-# 🎭 Ripcord Themes
-- Get themes for Ripcord made by me @[here](https://github.com/cool-dev-code/Ripcord-Themes/)
+# Other Ripcord Stuff
+- ⬇️ [Ripcord Download Link](https://cancel.fm/dl/Ripcord_Win_0.4.29.zip)
+- 🎭 [Themes for Ripcord](https://github.com/cool-dev-code/Ripcord-Themes/)
+- 🧑‍💻 [Connection fix by Community](https://github.com/geniiii/ripcord-community-fix/releases)
 
 ---
 
