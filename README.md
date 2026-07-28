@@ -9,13 +9,16 @@
 
 ### ✨ Version:
 - 🪦 Ripcord version `0.4.29`
-- 😎 Emojis `Twemoji` (X)
+- 😎 Emojis `Twemoji` (14)
 
 ## ⬇️ How to get New Emojis:
 - Quit Ripcord completely.
 - Replace `twemoji.ripdb` file in the Ripcord folder with [this](https://github.com/cool-dev-code/ripcord-emoji-fix/releases) file.
-- Now Open **Ripcord**.
-- You are Done. Enjoy :)
+- Next Delete this file
+```
+%localappdata%/Ripcord/discord_emoji.ripdb
+```
+- Now Open **Ripcord**. You are Done. Enjoy :)
 
 ### 📜 Changelog:
 - ✅ Changed classic-styled emojis to Discord's native style (twemoji).
