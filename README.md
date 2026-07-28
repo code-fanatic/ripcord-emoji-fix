@@ -1,4 +1,4 @@
-# 😄 Ripcord Emoji Fix
+# 😄 Ripcord Emojis Update
 > [!TIP]
 > **❓ What is this?**
 - It fixes *Classic styled emojis in Ripcord.*
